@@ -25,11 +25,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void definirNomes(View view){
         mostrarNomes();
-        //sortearCartas();
-        //mostrarSorteadas();
-        //Por ultimo
-        //mudarBotaoStart();
-        //jogo();
     }
     public void sortear(View view){
         sortearCartas();
